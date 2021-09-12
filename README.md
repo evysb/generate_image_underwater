@@ -1,4 +1,4 @@
-# generate_image_underwater
+# Generate image underwater
 
 Python code equivalent to generate_image_underwater.m found in: https://li-chongyi.github.io/proj_underwater_image_synthesis.html
 
